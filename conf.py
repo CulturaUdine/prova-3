@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Linee Guida SPID - Rilascio dell'identita' digitale per uso professionale"
-settings_copyright_copyleft = "Agenzia per l'Italia Digitale"
-settings_editor_name = "Agenzia per l'Italia Digitale"
-settings_doc_version = 'Bozza in consultazione'
-settings_doc_release = 'Bozza in consultazione'
-settings_basename = 'lg-spid-rilascio-identita-digitale-uso-professionale'
-settings_file_name = 'lg-spid-rilascio-identita-digitale-uso-professionale'
-settings_discourse_url = 'https://forum.italia.it/'
+settings_project_name = "prova 3"
+settings_copyright_copyleft = "Udine"
+settings_editor_name = "Udine"
+settings_doc_version = 'prova 3'
+settings_doc_release = 'prova 3'
+settings_basename = 'prova 3'
+settings_file_name = 'prova 3'
+
 
 # -- No need to change below here
 
